@@ -1,7 +1,7 @@
 # Thing-1
 
 <p align="center">
-  <img width="460" height="400" src="./public/img/pngkey.com-dr-seuss-characters-png-4807259.png">
+  <img width="640" height="320" src="./public/img/pngkey.com-dr-seuss-characters-png-4807259.png">
 </p>
 
 <p align="right">
