@@ -1,7 +1,7 @@
 import { Switch } from '@headlessui/react'
-import { useTheme } from '~/hooks/useTheme'
 import { LuSun as Sun } from 'react-icons/lu'
 import { WiMoonWaxingCrescent3 as Moon } from 'react-icons/wi'
+import { useTheme } from '~/hooks/useTheme'
 
 export default function ThemeToggle() {
   const { theme, setTheme } = useTheme()

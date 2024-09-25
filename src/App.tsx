@@ -1,5 +1,5 @@
 import UsersList from '~/components/UsersList'
-import ThemeToggle from './components/ui/ThemeToggle'
+import ThemeToggle from '~/components/ui/ThemeToggle'
 
 function App() {
   return (
