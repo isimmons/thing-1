@@ -54,6 +54,8 @@ Below is all the things I added, changed, or configured.
 - @tanstack/react-query demo in UsersList.tsx.
 - Simple system toggle that RESPECTS the users system preference and allows for toggle via a
   theme provider and local storage with env configurable storage key.
+- Box component demo with size prop style attribute and tailwind classes.
+- cn helper function for tailwind classNames in utils/shared.ts.
 
 ## Package Manager Things
 
